@@ -10,7 +10,7 @@ Dado que el usuario general se encuentra en el apartado de menu de inicio.
 
 Cuando el usuario general de clic al boton "Preguntas frecuentes"
 
-Entonces el sistma despliega el apartado de Preguntas Frecuentes con sus respectivas respuestas.
+Entonces el sistema despliega el apartado de Preguntas Frecuentes con sus respectivas respuestas.
 
 
 Escenario: E02 Usuario general no encuentra su duda en el apartado de Preguntas Frecuentes.
