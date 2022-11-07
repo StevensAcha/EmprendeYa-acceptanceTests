@@ -2,7 +2,7 @@
 Feature: Compatibilidad en cualquier sistema operativo Web o Mobile
 
     Como usuario general, quiero que el producto digital sea ejecutable
-    desde los sistemas operativos Android, iOS, Windows o MaxOS, para 
+    desde los sistemas operativos Android, iOS, Windows o MacOS, para 
     emplearlo en cualquier dispositivo.
 
 Escenario: E01 Usuario general quiere instalar la aplicacion en su dispositivo Android.
