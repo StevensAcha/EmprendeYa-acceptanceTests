@@ -1,8 +1,8 @@
 //HU08
 Feature: Cambiar el tema de interfaz del producto digital
 
-    Como usuario general, quiero publicar una descripcion de mi
-    startup para que los benefactores puedan conocerla mejor.
+    Como usuario general, quiero cambiar el tema de interfaz 
+    del producto digital para sentirme mas comodo al navegar. 
 
 Escenario: E01 Usuario general desea cambiar el tema de la interfaz de navegación. 
 
