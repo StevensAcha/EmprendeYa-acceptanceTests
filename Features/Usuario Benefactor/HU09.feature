@@ -17,9 +17,9 @@ Entonces el sistema mostrará su <nueva descripcion experiencia laboral> en su p
 
 Example: Datos de entrada
     | descripcion experiencia laboral |
-    | Profecional en ventas y gestion empresarial. CEO de Nike Perú. |
+    | Profesional en ventas y gestion empresarial. CEO de Nike Perú. |
 
 Example: Datos de salida
     | nueva descripcion experiencia laboral |
-    | Profecional en ventas y gestion empresarial. CEO de Nike Perú. |
+    | Profesional en ventas y gestion empresarial. CEO de Nike Perú. |
     
