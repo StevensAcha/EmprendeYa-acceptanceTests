@@ -21,7 +21,7 @@ Y el usuario benefactor encuentra la lista de los emprendimientos que apoyó rec
 Cuando el usuario benefactor seleccione un emprendimiento. 
 
 Entonces el sistema muestra el perfil del emprendimiento seleccionado. <nombre> <nombre emprendedor> <rubro>
-Y el sistema permite al usuario revisar las estadísticas del emprendimiento. 
+Y el sistema permite al usuario benefactor revisar las estadísticas del emprendimiento. 
 
 Example: Datos de salida
     | nombre | nombre emprendedor | rubro |
