@@ -12,12 +12,13 @@ Dado que el usuario benefactor se encuentra fuera de la aplicación.
 Cuando algun usuario emprendedor decida mandar un mensaje mediante 
 el chat al usuario emprendedor.
 
-Entonces el sistema muestra una notificacion con un <mensaje>.
+Entonces el sistema muestra una notificacion con un <mensaje predeterminado> que contiene 
+el <nombre> del usuario emisor y parte del <mensaje> que mandó
 Y el sistema le muestra opciones de respuesta a la notificacion.
 
 Example: Datos de salida
-    | mensaje |
-    | Mensaje nuevo, -nombre-: -mensaje-. |
+    | mensaje predeterminado | nombre | mensaje |
+    | Mensaje nuevo, -nombre-: -mensaje-. | Emanuel Contreras | Hola, ya me encuentro listo para la reunión que acordamos |
 
 
 Escenario: E02 Usuario benefactor recibe notificacion de convocatoria de voluntarios para charlas virtuales.
