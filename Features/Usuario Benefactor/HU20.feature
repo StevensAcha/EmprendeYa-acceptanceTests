@@ -18,8 +18,8 @@ Example: Datos de salida
     | mision | vision | descripcion | sitio web |
     | JoJo Funny tiene como misión llevar sonrisas a los 
     niños de albergues mediante juguetes hechos a partir 
-    de materiales reciclados | ser la empresa numnero uno sin 
+    de materiales reciclados | Ser la empresa numero uno sin 
     fines de lucro que lleve sueños y esperanzas a todas partes de Perú
-    | JoJo Funny es una empresa nacientes sin fines de lucro la cual 
+    | JoJo Funny es una empresa naciente sin fines de lucro la cual 
     elabora juguetes sencillos a partir de materiales reciclados
     | JoJoFunny.com |
