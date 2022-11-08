@@ -2,7 +2,7 @@
 Feature: Registro de la experiencia laboral del benefactor.
 
     Como usuario benefactor, quiero registrar mi experiencia laboral dentro
-    de mi perfil, para que los demás usuarios confíen en mi apoyo profecional.
+    de mi perfil, para que los demás usuarios confíen en mi apoyo profesional.
 
 Escenario: E01 Usuario benefactor desea añadir o actualizar la descripción de su experiencia laboral en su perfil.
 
