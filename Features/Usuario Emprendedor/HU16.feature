@@ -58,9 +58,10 @@ Dado que el usuario emprendedor se encuentra fuera de la aplicacion.
 Cuando algun usuario benefactor, que el usuario emprendedor siga, decida
 comunicarse con el usuario emprendedor mediante el chat de la aplicacion.
 
-Entonces el sistema muestra una notificacion con un <mensaje>.
+Entonces el sistema muestra una notificacion con un <mensaje predeterminado> que contiene 
+el <nombre> del usuario emisor y parte del <mensaje> que mandó.
 Y el sistema le muestra opciones de respuesta a la notificacion.
 
 Example: Datos de salida
-    | mensaje |
-    | Mensaje nuevo, -nombre-: -mensaje-. |
+    | mensaje predeterminado | nombre | mensaje |
+    | Mensaje nuevo, -nombre-: -mensaje-. | Juana del Arco | Hola, no olvides nuestra reunión a las 5:00 p.m. |
