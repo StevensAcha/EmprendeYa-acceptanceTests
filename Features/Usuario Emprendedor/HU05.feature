@@ -1,5 +1,5 @@
 //HU05
-Feature: Personalizar el perfil del emprendedor.
+Feature: Publicar videos en el perfil emprendedor.
 
     Como usuario emprendedor, quiero publicar videos en mi perfil para
     presentar mi producto a la comunidad virtual.
